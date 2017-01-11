@@ -1,0 +1,9 @@
+__pycache__
+.ipynb_checkpoints/
+bin/
+*.pyc
+*.swp
+*.swo
+*.db
+*.csv
+*.sqlite3
