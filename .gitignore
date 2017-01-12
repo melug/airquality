@@ -1,4 +1,8 @@
 __pycache__
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
+celerybeat.pid
 .ipynb_checkpoints/
 bin/
 *.pyc
